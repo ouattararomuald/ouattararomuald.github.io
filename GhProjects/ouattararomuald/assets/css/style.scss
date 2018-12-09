@@ -1,0 +1,68 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+div.card {
+  background-color: white;
+  border: 1px solid grey;
+  width: 18rem;
+}
+
+div.card-body {
+  padding: 8px;
+  margin: 0 !important;
+}
+
+div.card-body p a {
+  color: #1d52f5;
+  font-weight: bold;
+  text-shadow: none;
+}
+
+div.card-body p a:hover {
+  cursor: pointer;
+}
+
+img.card-img-top {
+  width: 100%;
+  height: 100%;
+}
+
+p.card-text {
+  color: #333333;
+}
+
+p.post-date {
+  color: #aaa;
+}
+
+p.signature {
+  margin-top: 60px;
+  color: #666;
+}
+
+ul.list-inline {
+  min-width: 696px;
+  list-style: none;
+  padding-top: 20px;
+}
+
+ul.list-inline li {
+  display: inline;
+  margin-right: 10px;
+}
+
+ul.list-inline li a {
+  color: white;
+  text-decoration: underline;
+}
+
+ul.list-inline li a:hover {
+  color: #63c0f5;
+  text-decoration: none;
+}
+
+ul.list-inline li a span.fa-list-inline {
+	margin-right: 4px;
+}

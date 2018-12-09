@@ -1,0 +1,4 @@
+- name: Android Image Slider
+  url: https://github.com/ouattararomuald/android-image-slider
+  picture: https://github.com/ouattararomuald/android-image-slider
+  description: An image slider for android that let you pick the image loader library that best suits your needs.
