@@ -3,12 +3,14 @@ layout: default
 title: Portfolio
 ---
 
+<div class="grid-container">
 {% for project in site.data.projects %}
-<div class="card">
-  <img class="card-img-top" src="/assets/images/image-cap.svg" alt="Project image">
+<div class="grid-item">
+  <!--<img class="card-img-top" src="/assets/images/image-cap.svg" alt="Project image">-->
   <div class="card-body">
-  	<p><a href="{{ project.url }}">{{ project.name }}</a></p>
-	<p class="card-text">{{ project.description }}</p>
+    <p><a href="{{ project.url }}">{{ project.name }}</a></p>
+    <p class="card-text">{{ project.description }}</p>
   </div>
 </div>
 {% endfor %}
+</div>
