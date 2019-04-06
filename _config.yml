@@ -14,10 +14,10 @@ description: Personal website and blog.
 show_downloads: true
 
 # Theme configurations
-repository: ouattararomuald/ouattararomuald.github.io
+repository: ouattararomuald/ouattararomuald.com
 github:
   is_project_page: true
-  repository_name: ouattararomuald.github.io
+  repository_name: ouattararomuald.com
   source_zip_url: https://github.com/ouattararomuald/android-image-slider/archive/master.zip
   another_url: another value
 maven:
