@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ouattararomuald/ouattararomuald.com.svg?branch=gh-pages)](https://travis-ci.org/ouattararomuald/ouattararomuald.com)
+
 # ouattararomuald.com
 Personal website and blog.
 
