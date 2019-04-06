@@ -1,4 +1,4 @@
-# ouattararomuald.github.io
+# ouattararomuald.com
 Personal website and blog.
 
 Running the site
