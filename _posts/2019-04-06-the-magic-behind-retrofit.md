@@ -2,7 +2,7 @@
 layout: post
 author: Romuald Ouattara
 excerpt_separator: <!--more-->
-categories: [Http]
+categories: [Proxy]
 tags: [Android, Java, Retrofit, Http]
 ---
 
