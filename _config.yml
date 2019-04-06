@@ -11,6 +11,7 @@
 # Site settings
 title: Romuald Ouattara
 description: Personal website and blog.
+url: "http://ouattararomuald.com"
 show_downloads: true
 
 # Theme configurations
@@ -29,6 +30,7 @@ markdown: kramdown
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
