@@ -2,3 +2,7 @@
   url: https://github.com/ouattararomuald/android-image-slider
   picture: https://github.com/ouattararomuald/android-image-slider
   description: An image slider for android that let you pick the image loader library that best suits your needs.
+- name: Syndication
+  url: https://github.com/ouattararomuald/syndication
+  picture: https://github.com/ouattararomuald/syndication
+  description: A Kotlin library for reading RSS 2.0 and ATOM 1.0 syndication feeds.
