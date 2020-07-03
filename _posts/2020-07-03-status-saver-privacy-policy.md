@@ -2,8 +2,8 @@
 layout: post
 author: Romuald Ouattara
 excerpt_separator: <!--more-->
-categories: [Proxy]
-tags: [Android, Java, Retrofit, Http]
+categories: [Privacy Policy]
+tags: [Status Saver]
 ---
 
 Status saver privacy policy.
