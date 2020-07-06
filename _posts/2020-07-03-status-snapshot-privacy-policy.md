@@ -6,13 +6,13 @@ categories: [Privacy Policy]
 tags: [Status Saver]
 ---
 
-Status saver privacy policy.
+Status Snapshot privacy policy.
 
 <!--more-->
 
 
 Romuald Ouattara built the following App:
-- WhatsApp Status Saver (Android),
+- Status Snapshot (Android),
 
 This app is provided by Romuald Ouattara at no cost and is intended for use as is.
 
@@ -22,4 +22,4 @@ If you choose to use our Services, then you agree to the collection and use of i
 
 ## Information Collection and Use:
 
-WhatsApp Status Saver uses does not collect your data.
+Status Snapshot does not collect your data.
