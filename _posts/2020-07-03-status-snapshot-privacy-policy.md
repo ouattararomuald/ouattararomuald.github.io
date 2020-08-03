@@ -1,4 +1,5 @@
 ---
+title: Status Snapshot privacy policy
 layout: post
 author: Romuald Ouattara
 excerpt_separator: <!--more-->
