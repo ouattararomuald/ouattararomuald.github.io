@@ -1,4 +1,5 @@
 ---
+title: The magic behind retrofit
 layout: post
 author: Romuald Ouattara
 excerpt_separator: <!--more-->
