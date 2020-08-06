@@ -1,5 +1,6 @@
 ---
 title: The magic behind retrofit
+description: The magic behind retrofit.
 layout: post
 author: Romuald Ouattara
 excerpt_separator: <!--more-->

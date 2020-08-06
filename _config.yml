@@ -8,6 +8,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+# Collections
+collections:
+  policies:
+    output: true
+
 # Site settings
 title: Romuald Ouattara
 description: Personal website and blog.
@@ -31,13 +36,17 @@ theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/

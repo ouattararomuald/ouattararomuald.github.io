@@ -246,6 +246,7 @@ DEPENDENCIES
   jekyll (>= 3.7.4)
   jekyll-feed (~> 0.6)
   jekyll-redirect-from
+  jekyll-sitemap
   jekyll-theme-hacker
   tzinfo-data
 
