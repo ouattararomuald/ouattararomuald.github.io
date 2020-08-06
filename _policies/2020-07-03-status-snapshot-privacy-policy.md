@@ -1,6 +1,6 @@
 ---
 title: Status Snapshot privacy policy
-description: Status Snapshot privacy policy.
+description: Status Snapshot privacy policy details.
 layout: policy
 author: Romuald Ouattara
 excerpt_separator: <!--more-->

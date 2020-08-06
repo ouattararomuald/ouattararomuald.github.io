@@ -1,6 +1,6 @@
 ---
 title: The magic behind retrofit
-description: The magic behind retrofit.
+description: The first time I used retrofit I was very impressed...
 layout: post
 author: Romuald Ouattara
 excerpt_separator: <!--more-->
