@@ -1,0 +1,15 @@
+---
+layout: default
+title: List of privacy policies
+description: List of privacy policies.
+---
+<h1>List of Privacy Policies</h1>
+
+<ul>
+  {% for policy in site.policies %}
+    <li>
+      <h2><a href="{{ policy.url }}">{{ policy.title }}</a></h2>
+      <p>{{ policy.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
