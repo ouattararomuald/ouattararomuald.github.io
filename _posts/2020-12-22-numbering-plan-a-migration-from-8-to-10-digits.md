@@ -1,6 +1,6 @@
 ---
-title: Numbering plan: A migration from 8 to 10 digits
-description: Mobile phone: a tool that changed the way....
+title: Numbering plan a migration from 8 to 10 digits
+description: Mobile phone a tool that changed the way....
 layout: post
 author: Romuald Ouattara
 excerpt_separator: <!--more-->
