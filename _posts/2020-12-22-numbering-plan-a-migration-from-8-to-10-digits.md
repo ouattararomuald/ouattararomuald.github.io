@@ -4,7 +4,7 @@ description: Mobile phone: a tool that changed the way....
 layout: post
 author: Romuald Ouattara
 excerpt_separator: <!--more-->
-categories: [Numbering]
+categories: [Android]
 tags: [Android, Java, Kotlin, Numbering]
 ---
 
@@ -79,23 +79,23 @@ First you start by defining the migration rules for you country
 
 ```kotlin
 val ivoryCoastPlanFactory: CountryPlan = CountryPlan.Builder()
-    .setOldPhoneNumberSize(8)
-    .setInternationalCallingCode("225")
-    .setDigitMapperPosition(Position.START) // Position.END
-    .setMigrationType(MigrationType.PREFIX) // MigrationType.POSTFIX
-    .setPrefixesMapper(
-      mapOf(
-        "07" to "07", // Orange
-        "08" to "07", // eg: 08 XX XX XX => 07 08 XX XX XX (if MigrationType.PREFIX is used) => 08 XX XX XX 07 (if MigrationType.POSTFIX is used)
-        "09" to "07",
-        "04" to "05", // MTN
-        "05" to "05",
-        "06" to "05",
-        "01" to "01", // MOOV
-        "02" to "01",
-        "03" to "01"
-      )
-    ).build()
+  .setOldPhoneNumberSize(8)
+  .setInternationalCallingCode("225")
+  .setDigitMapperPosition(Position.START) // Position.END
+  .setMigrationType(MigrationType.PREFIX) // MigrationType.POSTFIX
+  .setPrefixesMapper(
+    mapOf(
+      "07" to "07", // Orange
+      "08" to "07", // eg: 08 XX XX XX => 07 08 XX XX XX (if MigrationType.PREFIX is used) => 08 XX XX XX 07 (if MigrationType.POSTFIX is used)
+      "09" to "07",
+      "04" to "05", // MTN
+      "05" to "05",
+      "06" to "05",
+      "01" to "01", // MOOV
+      "02" to "01",
+      "03" to "01"
+    )
+  ).build()
 ```
 
 Let’s break down all that:
