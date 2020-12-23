@@ -115,8 +115,13 @@ val ivoryCoastPlanFactory: CountryPlan = ...
 val numberingPlan = NumberingPlan(ivoryCoastPlanFactory)
 val newPhoneNumbers = numberingPlan.migrate(
   mapOf(
-    "userId-1" to " 00 22503 060 701 ",
-    "userId-2" to " 00 225-03-060-701"
+    "userId-1" to "08060709",
+    "userId-2" to "06060709",
+    "userId-3" to "03060701",
+    "userId-4" to " 03 060 701 ",
+    "userId-5" to " 03-060-701",
+    "userId-6" to "zezae/03-060-701",
+    "userId-7" to ")'.03-060-701"
   )
 )
 ```
