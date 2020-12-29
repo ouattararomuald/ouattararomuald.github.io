@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ouattararomuald/ouattararomuald.com.svg?branch=gh-pages)](https://travis-ci.org/ouattararomuald/ouattararomuald.com)
+[![CircleCI](https://circleci.com/gh/ouattararomuald/ouattararomuald.com/tree/gh-pages.svg?style=shield)](https://circleci.com/gh/ouattararomuald/saviez-vous-que/tree/gh-pages)
 
 # ouattararomuald.com
 Personal website and blog.
