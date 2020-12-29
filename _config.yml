@@ -16,7 +16,7 @@ collections:
 # Site settings
 title: Romuald Ouattara
 description: Personal website and blog.
-url: "http://ouattararomuald.com"
+url: "https://ouattararomuald.com"
 show_downloads: true
 
 # Theme configurations
